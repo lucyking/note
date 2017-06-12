@@ -10,3 +10,8 @@ hello everyone,today we will hava a discuss
 
 Kali Linux on a Raspberry Pi (A/B+/2) with Disk Encryption:
 https://www.offensive-security.com/kali-linux/raspberry-pi-luks-disk-encryption/
+
+
+# static compile
+spec *.so bind path
+./configure  CFLAGS="-L../lib/valgrind -Wl,-rpath=../lib/valgrind/" --prefix=/output
