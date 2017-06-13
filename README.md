@@ -15,3 +15,7 @@ https://www.offensive-security.com/kali-linux/raspberry-pi-luks-disk-encryption/
 # static compile
 spec *.so bind path
 ./configure  CFLAGS="-L../lib/valgrind -Wl,-rpath=../lib/valgrind/" --prefix=/output
+
+
+# qume kali
+http://www.cnx-software.com/2011/10/18/raspberry-pi-emulator-in-ubuntu-with-qemu/
