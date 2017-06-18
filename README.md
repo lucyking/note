@@ -30,3 +30,7 @@ Debian soft-float is no longer available for download from raspberrypi.org. **Th
 
 Raspbian (rather cheekily called Debian Wheezy) is a recompilation of the Debian packages for hard-float. It is not soft-float and as far as I'm aware is not supported by Debian.
 
+
+
+# kernel building
+https://www.raspberrypi.org/documentation/linux/kernel/building.md
