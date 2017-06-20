@@ -34,3 +34,9 @@ Raspbian (rather cheekily called Debian Wheezy) is a recompilation of the Debian
 
 # kernel building
 https://www.raspberrypi.org/documentation/linux/kernel/building.md
+
+
+# DHCP finder
+Stan Daskalov Jan 31, 2015 at 3:25 AM 1ST POST
+There is another good tool: Microsoft Rogue DHCP Server detection 1.0 that could help.
+http://www.majorgeeks.com/files/details/microsoft_rogue_dhcp_server_detection.html
